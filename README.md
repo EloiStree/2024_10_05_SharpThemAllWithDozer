@@ -12,3 +12,4 @@ https://youtu.be/8mIg90l_H_A
     "be.elab.toytank": "https://github.com/EloiStree/2024_10_05_KidToyTankTreadModeCode.git",
     "com.unity.inputsystem": "1.7.0",
 ```
+![image](https://github.com/user-attachments/assets/409a7703-57c1-4c4a-8c6b-a0f28f853827)
